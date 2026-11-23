@@ -15,8 +15,8 @@ const init_phones = ["Thieaudio Valhalla"],// Optional. Which graphs to display 
       alt_augment = true,                           // Display augment card in phone list, e.g. review sore, shop link
       site_url = '/',                               // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
-      watermark_text = "CrinGraph",                 // Optional. Watermark appears behind graphs
-      watermark_image_url = "assets/images/haruto.svg", // Optional. If image file is in same directory as config, can be just the filename
+      watermark_text = "NyxAudio",                 // Optional. Watermark appears behind graphs
+      watermark_image_url = "", // Optional. If image file is in same directory as config, can be just the filename
       rig_description = "clone IEC 711",            // Optional. Labels the graph with a description of the rig used to make the measurement, e.g. "clone IEC 711"
       page_title = "CrinGraph",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
@@ -113,7 +113,7 @@ function watermark(svg) {
     
     wmSq.append("text")
         .attrs({x:641, y:314, "font-size":10, "transform":"translate(0,0)", "text-anchor":"end", "class":"wm-squiglink-address"})
-        .text("squig.link/lab/harutohiroki");
+        .text("nyxaudio.github.io");
 }
 
 
@@ -250,8 +250,8 @@ setupGraphAnalytics();
 
 
 // If alt_header is enabled, these are the items added to the header
-let headerLogoText = "HarutoHiroki",
-    headerLogoImgUrl = "assets/images/haruto.svg",
+let headerLogoText = "NyxAudio",
+    headerLogoImgUrl = "",
     headerLinks = [
     {
         name: "Sample",

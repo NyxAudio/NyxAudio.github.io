@@ -1,5 +1,14 @@
 [
   {
+    "name": "7th Acoustics",
+    "phones": [
+      {
+        "name": "Ryusei",
+        "file": "7th Acoustics Ryusei"
+      }
+    ]
+  },
+  {
     "name": "Dunu",
     "phones": [
       {
@@ -18,11 +27,66 @@
     ]
   },
   {
+    "name": "Mysticraft",
+    "phones": [
+      {
+        "name": "Myth",
+        "file": "Mysticraft Myth"
+      }
+    ]
+  },
+  {
+    "name": "Oriolus",
+    "phones": [
+      {
+        "name": "Isabellae",
+        "file": "Oriolus Isabellae"
+      }
+    ]
+  },
+  {
+    "name": "Penon",
+    "phones": [
+      {
+        "name": "Archangel",
+        "file": [
+          "Penon Archangel (00)",
+          "Penon Archangel (01)",
+          "Penon Archangel (10)",
+          "Penon Archangel (11)"
+        ],
+        "suffix": [
+          "(00)",
+          "(01)",
+          "(10)",
+          "(11)"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Thieaudio",
     "phones": [
       {
         "name": "Valhalla",
         "file": "Thieaudio Valhalla"
+      }
+    ]
+  },
+  {
+    "name": "Unique Melody",
+    "phones": [
+      {
+        "name": "Maven 2 (Crescent)",
+        "file": "UM Maven 2 (Crescent)"
+      },
+      {
+        "name": "MEST Jet Black",
+        "file": "Mest Jet Black"
+      },
+      {
+        "name": "Multiverse Mentor",
+        "file": "Unique Melody Multiverse Mentor"
       }
     ]
   }

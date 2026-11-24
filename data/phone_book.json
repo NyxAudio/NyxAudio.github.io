@@ -12,9 +12,20 @@
     "name": "Dunu",
     "phones": [
       {
-        "name": "DK3001BD (Braindance)",
-        "file": "Dunu DK3001BD (Braindance)"
-      }
+  "name": "DK3001BD (Braindance)",
+  "file": [
+    "Dunu DK3001BD (Braindance)",
+    "Dunu DK3001BD (Braindance) 30ohm",
+    "Dunu DK3001BD (Braindance) 75ohm",
+    "Dunu DK3001BD (Braindance) 150ohm"
+  ],
+  "suffix": [
+    "(Stock)",
+    "(30ohm)",
+    "(75ohm)",
+    "(150ohm)"
+  ]
+}
     ]
   },
   {

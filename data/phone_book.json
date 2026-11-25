@@ -1,6 +1,6 @@
 [
   {
-    "name": "7th Acoustics",
+    "name": "7th Acoustics x QoA",
     "phones": [
       {
         "name": "Ryusei",
@@ -25,6 +25,15 @@
           "(75ohm)",
           "(150ohm)"
         ]
+      }
+    ]
+  },
+  {
+    "name": "Jomo Audio",
+    "phones": [
+      {
+        "name": "Stellar",
+        "file": "Jomo Stellar"
       }
     ]
   },

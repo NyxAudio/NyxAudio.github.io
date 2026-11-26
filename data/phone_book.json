@@ -79,6 +79,21 @@
       {
         "name": "Archangel",
         "file": [
+          "Archangel 00",
+          "Archangel 01",
+          "Archangel 10",
+          "Archangel 11"
+        ],
+        "suffix": [
+          "(00)",
+          "(01)",
+          "(10)",
+          "(11)"
+        ]
+      },
+      {
+        "name": "Archangel (Demo)",
+        "file": [
           "Penon Archangel (00)",
           "Penon Archangel (01)",
           "Penon Archangel (10)",
